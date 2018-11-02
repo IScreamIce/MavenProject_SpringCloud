@@ -7,3 +7,5 @@
 3：after test lt s a success。                     经过测试是成功的
 
 4：follow up keep update。                         后续保持更新
+
+5：contains integration mybatis。                  里面整合了mybatis
