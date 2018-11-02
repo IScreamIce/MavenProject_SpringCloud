@@ -4,6 +4,6 @@
 
 2：it contains zuul eurekaServer eurekaClient。    里面包含，zuul网关，eureka注册中心服务与eureka客户服务者
 
-3：after test lt s a success                       经过测试是成功的
+3：after test lt s a success。                     经过测试是成功的
 
-4：follow up keep update                           后续保持更新
+4：follow up keep update。                         后续保持更新
